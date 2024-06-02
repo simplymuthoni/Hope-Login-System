@@ -13,7 +13,7 @@ Using Flask
         activate.html
     static/: A directory for static files (CSS, JS, images).
 
-Example File Structure for Flask
+File Structure for Flask
 
 arduino
 
